@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_create_user.xml" value="0.5828220858895705" />
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_dashboard.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Angelo/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_login.xml" value="0.67" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_cardview_user.xml" value="0.17831813576494426" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_create_user.xml" value="0.17831813576494426" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_login.xml" value="0.17831813576494426" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_rv_user.xml" value="0.33" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_user_item.xml" value="0.33" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_user_rv.xml" value="0.2303370786516854" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/activity_users_card_view.xml" value="0.17831813576494426" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/content_users_card_view.xml" value="0.33" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/fragment_first.xml" value="0.17831813576494426" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/fragment_second.xml" value="0.17831813576494426" />
+        <entry key="..\:/sqlite-main/sqlite-main/app/src/main/res/layout/user_row.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
